@@ -174,4 +174,4 @@ You are free to use, modify, and distribute this software with proper attributio
 
 ## 👨‍💻 Author
 
-Built with ❤️ by Nightmare.devs
+Built with ❤️ by shadow.devs
